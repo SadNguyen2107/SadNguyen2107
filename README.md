@@ -33,7 +33,3 @@ I’m always eager to learn and explore new technologies. Lately, I’ve been di
 
 ### 🔗 Let's Connect
 Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/nguyen-sad-developer-787908213/) and [X](https://x.com/SAD_Nguyen203)!
----
-
-### 🔗 Let's Connect
-Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/nguyen-sad-developer-787908213/) and [X](https://x.com/SAD_Nguyen203)!
