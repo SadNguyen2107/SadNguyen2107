@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate **Corgi Dog Lover** and **game developer** with a strong focus on **Unity** and **Unreal Engine**, and some experience in **Godot**. I enjoy crafting immersive gaming experiences, from gameplay mechanics to complex game systems.
+I'm a passionate **Corgi Dog Lover 🐕** and **game developer** with a strong focus on **Unity** and **Unreal Engine**, and some experience in **Godot**. I enjoy crafting immersive gaming experiences, from gameplay mechanics to complex game systems.
 
 ### 🛠️ Tech Stack
 
